@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 	
-	"github.com/ainftorg/go-admin-core/config"
-	"github.com/ainftorg/go-admin-core/config/source/file"
+	"github.com/go-admin-team/go-admin-core/config"
+	"github.com/go-admin-team/go-admin-core/config/source/file"
 )
 
 func TestApp(t *testing.T)  {

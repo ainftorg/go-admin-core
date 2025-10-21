@@ -5,8 +5,8 @@ package file
 import (
 	"os"
 
-	"github.com/fsnotify/fsnotify"
 	"github.com/ainftorg/go-admin-core/config/source"
+	"github.com/fsnotify/fsnotify"
 )
 
 type watcher struct {

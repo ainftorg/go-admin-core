@@ -2,7 +2,6 @@ package cache
 
 import (
 	"github.com/ainftorg/go-admin-core/storage"
-	"github.com/go-admin-team/redisqueue/v2"
 )
 
 type Message struct {
